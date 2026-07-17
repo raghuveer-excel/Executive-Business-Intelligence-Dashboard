@@ -55,8 +55,31 @@ Documentation/
 ---
 
 ## 📸 Dashboard Preview
+ 
 
-Dashboard screenshots are available inside the **Images** folder.
+### Executive Dashboard
+
+![Executive Dashboard](Images/executive-dashboard.png)
+
+### Sales Analysis
+
+![Sales Analysis](Images/sales-analysis.png)
+
+### Customer Analysis
+
+![Customer Analysis](Images/customer-analysis.png)
+
+### Product Performance
+
+![Product Performance](Images/product-performance.png)
+
+### Regional Analysis
+
+![Regional Analysis](Images/regional-analysis.png)
+
+### KPI Overview
+
+![KPI Overview](Images/kpi-overview.png)
 
 ---
 
