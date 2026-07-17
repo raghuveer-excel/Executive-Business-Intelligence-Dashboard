@@ -1,4 +1,5 @@
  # Executive Business Intelligence Dashboard
+ ![Dashboard Preview](Images/united-states-sales-dashboard.png)
 
 ## 📌 Project Overview
 
